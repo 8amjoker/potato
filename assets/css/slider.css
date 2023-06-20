@@ -1,0 +1,26 @@
+.slider-container {
+    width: 300px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .slider {
+    display: flex;
+    width: 100%;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .slide {
+    flex: 0 0 100%;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .prev-btn,
+  .next-btn {
+    display: block;
+    margin: 10px auto;
+  }
+  
