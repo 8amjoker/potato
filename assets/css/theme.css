@@ -2,8 +2,8 @@
 0. Color Variables
 --------------------------------------------------------------*/
 body{
-    --primary-color: #e50914;
-    --primary-dark: #b9060f;
+    --primary-color: #e08d4d;
+    --primary-dark: #a4612d;
     --secondary-color: #a5b5c5;
     --light-color: #e5eaef;
 
@@ -1862,7 +1862,7 @@ border-radius: 4px;
     display: block;
     height: 1px;
     width: 40px;
-    background: red;
+    background: #e08d4d;
     position: absolute;
     bottom: -1px;
 }
